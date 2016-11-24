@@ -1,6 +1,11 @@
 import random
 import time
 
+#this branch will have typed inputs replaced by hard coded, and will output the inputs and the iterations and time taken to a csv file for checking in excel.
+
+
+
+
 #The intention is, given inputs, generate a set of animals and some skills
 #generates a feeding matrix to see who eats what
 #scores everything (rock paper scissors). allocates enenergy.
